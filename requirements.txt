@@ -3,6 +3,6 @@ streamlit-webrtc
 mediapipe
 opencv-python-headless
 pandas
-numpy
-scikit-learn
-joblib
+scikit-learn==1.8.0
+numpy==2.4.3
+joblib==1.5.3
